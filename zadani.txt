@@ -1,0 +1,9 @@
+# Zadani semestralni prace z Progtestu
+Naprogramujte jednoduchou 2D sandbox hru.
+
+Hra musí splňovat následující funkcionality
+
+    Implementujte hráče (postava, loď, ...) a jeho stav (energie, životy, brnění, skore, ...)
+    Vytvořte (soubojový) model zranění - alespoň dvě příčiny (pád z výšky, soubor s nepřítelem, pobyt v lávě, ...)
+    Vytvořte jednoduchý model prostředí (gravitace, přelévání vody (lávy), růst stromů, ...)
+    Naimplementujte načítání (konfigurace generátoru) mapy ze souboru a umožněte ukládat aktuální stav hry.
